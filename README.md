@@ -1,3 +1,3 @@
 END TO END MACHINE LEARNING PROJECT
 
-AWS Deployments including
+AWS Deployments inc
