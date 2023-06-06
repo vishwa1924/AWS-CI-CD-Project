@@ -1,3 +1,3 @@
 END TO END MACHINE LEARNING PROJECT
 
-AWS Deployments by ci/cd
+AWS Deployments 
